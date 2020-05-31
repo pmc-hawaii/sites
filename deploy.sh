@@ -9,13 +9,13 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 hugo -t ananke
 
 # Copy published docs to root level where Github pages read at https://pmc-hawaii.github.io/.
-cp -rf docs/* ..
+# cp -rf public/* .
 
 # delete the published folder
 # rm -rf docs
 
 # Add changes from hugo folder and the root folder to git.
-git add ..
+git add .
 
 # Commit changes.
 msg="rebuilding site $(date)"
