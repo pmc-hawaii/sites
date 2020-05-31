@@ -8,10 +8,13 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 # Build the project with ananke theme.
 hugo -t ananke
 
-# Go To Public folder
-# cd public
+# Copy published docs to root level where Github pages read at https://pmc-hawaii.github.io/.
+cp -rf docs/* ..
 
-# Add changes to git.
+# delete the published folder
+# rm -rf docs
+
+# Add changes from hugo folder and the root folder to git.
 git add ..
 
 # Commit changes.
