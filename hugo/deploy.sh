@@ -12,7 +12,7 @@ hugo -t ananke
 # cd public
 
 # Add changes to git.
-git add .
+git add ..
 
 # Commit changes.
 msg="rebuilding site $(date)"
