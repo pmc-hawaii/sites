@@ -6,7 +6,7 @@ set -e
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project with ananke theme.
-hugo -t ananke
+hugo -D
 
 # Copy published docs to root level where Github pages read at https://pmc-hawaii.github.io/.
 cp -rf public/* ..
