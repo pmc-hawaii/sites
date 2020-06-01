@@ -4,7 +4,7 @@ date: 2020-05-31T16:16:59-07:00
 draft: true
 ---
 
-{{< figure src="/property/front.jpg" title="PMC Hawaii Photo" >}}
+{{< figure src="/property/front.jpg" title="New PMC Hawaii" >}}
 
 More Photos: [Location](/property/map.jpg), [Family Room](/property/familyroom.jpg), [Family Room to backyard](/property/familyroomback.jpg), [Living Room](/property/living-room.jpg), [Hallway](/property/hallway.jpg), [Kitchen](/property/kitchen.jpg), [Backyard](/property/backyard.jpg)
 
