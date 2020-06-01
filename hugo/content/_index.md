@@ -9,7 +9,7 @@ omit_header_text: true
 
 Hawaii Dhamma families have been longing for years for the establishment of a Meditation Center. With this intention, Hawaii Dhamma Families requested Senior Panditarama Nayakas for a Sayadaw to lead the establishment of  Panditarama meditation center and lead the dhamma work, giving dhamma talk and guiding meditation for Hawaii families. Hawaii has been very fortunate to have Sayadaw U Tejanana to be sent to Hawaii in June 2016 to provide these Sasana work under Panditarama guidance. Since then, Sayadaw U Tejanana has been providing weekly dhamma talks and group meditations, weekend retreats, and children dhamma classes. Additionally, we had other Panditarama Nayaka Sayadaws paid visits to Hawaii for special annual retreats and dhamma teachings such as  Pathana, Abhidhamma, and Dhammacakka etc. Hawaii dhamma families continuously provide support with four requisites (Robe, Food, Medicine and Lodging) for Sanghas. 
 
-However, we have limitations as the center was on a rental property. Hawaii dhamma families have been very keen to have own land and building for Panditarama Center in Hawaii. Together with Sayadaw U Tejanana, dhamma families made great effort in looking for appropriate property. Maha Nayaka Bee Lin Sayadaw and other Nayaka Sayadaws visited Hawaii center and they have provided great encouragement to purchase our own building for the Hawaii Panditarama Meditation Center.  
+However, we had limitations as the center was on a rental property. Hawaii dhamma families have been very keen to have own land and building for Panditarama Center in Hawaii. Together with Sayadaw U Tejanana, dhamma families made great effort in looking for appropriate property. Maha Nayaka Bee Lin Sayadaw and other Nayaka Sayadaws visited Hawaii center and they had provided great encouragement to purchase our own building for the Hawaii Panditarama Meditation Center.  
 
 ---
 
@@ -17,7 +17,7 @@ However, we have limitations as the center was on a rental property. Hawaii dham
 
 | Donor | Contribution |
 |:------|-------------:|
-| Dr. Charles Aung and Dr. Angela Wai Family | USD 200,000 |
+| Dr. Charles Aung and Dr. Angela Khin Khin Wai Family | USD 200,000 |
 | U Thein Kyi and Daw Nwet Nwet Yee Family | USD 200,000 |
 | Dr. William Myat and Dr. Hla Mya Moe Family | USD 50,000 |
 
@@ -104,7 +104,7 @@ __By the most venerable Mahasi Sayadaw Gyi - Anu-Maw-Dana for Monastery Donation
                    ဆရာ,ဒကါ ညီညွတ်စွာဖြင့်စိတ်အားထက်သန်စွာရိပ်သာနေရာရှာဖွေနေ
 သည့်အချိန်မှာပင်-
 
-* Dr. Charles Aung + Dr. Angela Wai မိသားစု  USD 200,000
+* Dr. Charles Aung + Dr. Angela Khin Khin Wai မိသားစု  USD 200,000
 * ဦးသိန်းကြည်+ဒေါ်နွဲ့နွဲ့ရီ မိသားစု USD 200,000
 * Dr. Willam Myat + Dr. Hla Mya Moe မိသားစု USD 50,000       
 
