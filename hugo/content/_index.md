@@ -50,6 +50,33 @@ For any information, please contact MBAOH President Dr. Charles Aung at :telepho
 
 ---
 
+## Merits of Property Donation To Monastery
+
+1. They are protected from extreme of weather, heat, cold, wind, mist, floods, and dangers from wild animals, snakes, insects such as centipedes or scorpions, mosquitoes, or biting flies etc.
+
+2. They would have planted a tree of eternal happiness. It is like donating great and special happiness forever.
+
+3. This is the most appropriate donation for those who want to enter the Samatha Janic trance and for those who want to practice Vipassana meditation.
+
+4. The Buddha himself praises those who donate towards the Monastery as it is the highest form of donation with the greatest achievement  of benefits.
+(_Vihara Danan Sanghasa Aggam Bhudey-na Wunni-tan_)
+
+5. Donating towards the Monastery is like donating towards all things, for example, towards food, nutrition, light, vision, transport, water etc .
+(_Thaw-sa Thubbada daw Haw-ti, Yaw da darti  Upathayan_)
+
+6. Generate good merits, day and night. (_Tay-than Di-Vasa Ratawsa Tha-dar Ponyan Pawa yoti_)
+
+7. Can attain the pristine dhamma wisdom, instantly free from dangers of Kilesa and experience the ultimate Nibbana happiness.
+
+(_Tathar-mi Panditaw Paw-thaw Thampayan Utta-Matta-Naw
+Viharay Kaya-yay Rum-may War-tha-yutt-hta Ba-hu-thu-tay_)
+
+Those who see these valuable benefits, or wise people build or donate Monastery which gives serenity and happiness.
+
+__By the most venerable Mahasi Sayadaw Gyi - Anu-Maw-Dana for Monastery Donation__
+
+---
+
 ## In Burmese
 
 ## ပဏ္ဍိတာရာမ ဟာဝိုင်ရီ သာသနရိပ်သာဖြစ်မြောက်ရန်အလှူရှင်များအားနှိုးဆော်တိုက်တွန်း
