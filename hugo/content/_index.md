@@ -2,6 +2,7 @@
 title: "Sukhitā hontu"
 date: 2020-05-31T16:16:59-07:00
 draft: true
+omit_header_text: true
 ---
 
 ## Background
@@ -15,7 +16,7 @@ However, we have limitations as the center was on a rental property. Hawaii dham
 ## Founding Donors
 
 | Donor | Contribution |
-|-------|--------------|
+|:------|-------------:|
 | Dr. Charles Aung and Dr. Angela Wai Family | USD 200,000 |
 | U Thein Kyi and Daw Nwet Nwet Yee Family | USD 200,000 |
 | Dr. William Myat and Dr. Hla Mya Moe Family | USD 50,000 |

@@ -3,3 +3,20 @@ languageCode = "en-us"
 title = "Panditãrãma Meditation Center - Hawaii"
 theme = "mytheme"
 enableEmoji = true
+
+DefaultContentLanguage = "en"
+
+[params]
+#    featured_image = "/sila-logo.jpeg"
+    facebook = ""
+    twitter = ""
+    instagram = ""
+    youtube = ""
+    github = ""
+    gitlab = ""
+    linkedin = ""
+    mastodon = ""
+    slack = ""
+    stackoverflow = ""
+    background_color_class = "bg-black"
+    body_classes = "avenir bg-near-white"
