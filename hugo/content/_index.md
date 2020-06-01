@@ -4,7 +4,7 @@ date: 2020-05-31T16:16:59-07:00
 draft: true
 ---
 
-![](/property/front.jpg)
+{{< figure src="/property/front.jpg" title="PMC Hawaii Photo" >}}
 
 More Photos: [Location](/property/map.jpg), [Family Room](/property/familyroom.jpg), [Family Room to backyard](/property/familyroomback.jpg), [Living Room](/property/living-room.jpg), [Hallway](/property/hallway.jpg), [Kitchen](/property/kitchen.jpg), [Backyard](/property/backyard.jpg)
 
@@ -42,4 +42,14 @@ You can also make a check payable to __Myanmar Buddhist Association of Hawaii__ 
 :mailbox: 640 Hakaka street, Honolulu, HI 96816
 
 For any information, please contact MBAOH President Dr. Charles Aung at :telephone_receiver: 808-256-8094 or :email: email at charles_aung@hotmail.com. 
+
+## Donation Form
+
+{{< iframe height="400" src="https://docs.google.com/forms/d/e/1FAIpQLSeBKEWm5tU_zRkoTacsC4SYJd-M95kAI-lo4tB-QttNg5AOMg/viewform?embedded=true" >}}
+
+
+
+
+
+
 
