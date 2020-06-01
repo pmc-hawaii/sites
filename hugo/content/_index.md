@@ -48,6 +48,8 @@ You can transfer via [Zelle](https://www.zellepay.com/go/zelle) or make a check 
 
 For any information, please contact MBAOH President Dr. Charles Aung at :telephone_receiver: 808-256-8094 or :email: email at charles_aung@hotmail.com.
 
+---
+
 ## In Burmese
 
 ## ပဏ္ဍိတာရာမ ဟာဝိုင်ရီ သာသနရိပ်သာဖြစ်မြောက်ရန်အလှူရှင်များအားနှိုးဆော်တိုက်တွန်း
