@@ -7,7 +7,7 @@ enableEmoji = true
 DefaultContentLanguage = "en"
 
 [params]
-#    featured_image = "/sila-logo.jpeg"
+    featured_image = "/sayadawgyi.jpg"
     facebook = ""
     twitter = ""
     instagram = ""
@@ -18,5 +18,5 @@ DefaultContentLanguage = "en"
     mastodon = ""
     slack = ""
     stackoverflow = ""
-    background_color_class = "bg-black"
+    background_color_class = "bg-mid-gray"
     body_classes = "avenir bg-near-white"

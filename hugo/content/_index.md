@@ -5,6 +5,9 @@ draft: true
 omit_header_text: true
 ---
 
+![](/panditarama-logo.jpg)
+
+
 ## Background
 
 Hawaii Dhamma families have been longing for years for the establishment of a Meditation Center. With this intention, Hawaii Dhamma Families requested Senior Panditarama Nayakas for a Sayadaw to lead the establishment of  Panditarama meditation center and lead the dhamma work, giving dhamma talk and guiding meditation for Hawaii families. Hawaii has been very fortunate to have Sayadaw U Tejanana to be sent to Hawaii in June 2016 to provide these Sasana work under Panditarama guidance. Since then, Sayadaw U Tejanana has been providing weekly dhamma talks and group meditations, weekend retreats, and children dhamma classes. Additionally, we had other Panditarama Nayaka Sayadaws paid visits to Hawaii for special annual retreats and dhamma teachings such as  Pathana, Abhidhamma, and Dhammacakka etc. Hawaii dhamma families continuously provide support with four requisites (Robe, Food, Medicine and Lodging) for Sanghas. 
@@ -152,7 +155,7 @@ __By the most venerable Mahasi Sayadaw Gyi - Anu-Maw-Dana for Monastery Donation
                     [မဟာစည်ဆရာတော်ကြီး]
 
 
-
+![](/sila-logo.jpeg)
 
 
 
