@@ -21,14 +21,14 @@ However,  we have limitations as the center was on a rental property. Hawaii dha
 ## Founding Donors
 
 | Donor | Contribution |
-|:-----:|:------------:|
+|-------|--------------|
 | Dr. Charles Aung and Dr. Angela Wai Family | USD 200,000 |
 | U Thein Kyi and Daw Nwet Nwet Yee Family | USD 200,000 |
 | Dr. William Myat and Dr. Hla Mya Moe Family | USD 50,000 |
 
 With all other  donation from Dhamma families of Hawaii Panditarama Meditation center and other Myanmar families, Tathagata Meditation Center (TMC), San Jose Dhamma families, and many other Dhamma followers from across the United States, Myanmar, Singapore, and  Malaysia have made it possible to purchase a property in May, 2020. 
 
-The property value is [USD 825,000](https://www.redfin.com/HI/Pearl-City/1819-Hoomalolo-St-96782/home/91458805). We have made temporary personal loans from patrons of TMC and Hawaii Panditarama Meditation Center, the amount of  US $ 250,000. We are in need of donation to make the payment for the property.  
+The property value is [USD 825,000](https://www.redfin.com/HI/Pearl-City/1819-Hoomalolo-St-96782/home/91458805). We have made temporary personal loans from patrons of TMC and Hawaii Panditarama Meditation Center, the amount of  USD 250,000. We are in need of donation to make the payment for the property.  
 
 ---
 
@@ -36,23 +36,16 @@ The property value is [USD 825,000](https://www.redfin.com/HI/Pearl-City/1819-Ho
 
 Myanmar Buddhist Association of Hawaii would like to invite Dhamma communities to participate in the Good Merits of donating towards the building for the Panditarama Meditation Center in Honolulu, Hawaii. 
 
-Donation are being accepted at USD $100 per unit square, as an individual or in group, or in any amount under the Account Name: Myanmar Buddhist Association of Hawaii (MBAOH).
-
-
-> * Bank Name: Bank of Hawaii
-> * (P.O.Box 2900, Honolulu, HI 96846, USA; boh.com)
-> * Routing No: and Account No: 121301028:  0084-424790.
-
-You can also make a check payable to __Myanmar Buddhist Association of Hawaii__ with Memo of Building fund. Checks can be mailed to: 
+You can transfer via Zelle or make a check payable to __Myanmar Buddhist Association of Hawaii__ with Memo of Building fund. Checks can be mailed to: 
 
 :mailbox: 640 Hakaka street, Honolulu, HI 96816
-
-For any information, please contact MBAOH President Dr. Charles Aung at :telephone_receiver: 808-256-8094 or :email: email at charles_aung@hotmail.com. 
 
 ## Donation Form
 
 {{< iframe height="400" src="https://docs.google.com/forms/d/e/1FAIpQLSeBKEWm5tU_zRkoTacsC4SYJd-M95kAI-lo4tB-QttNg5AOMg/viewform?embedded=true" >}}
 
+
+For any information, please contact MBAOH President Dr. Charles Aung at :telephone_receiver: 808-256-8094 or :email: email at charles_aung@hotmail.com.
 
 ## In Burmese
 
