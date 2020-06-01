@@ -36,7 +36,7 @@ The property value is [USD 825,000](https://www.redfin.com/HI/Pearl-City/1819-Ho
 
 Myanmar Buddhist Association of Hawaii would like to invite Dhamma communities to participate in the Good Merits of donating towards the building for the Panditarama Meditation Center in Honolulu, Hawaii. 
 
-You can transfer via Zelle or make a check payable to __Myanmar Buddhist Association of Hawaii__ with Memo of Building fund. Checks can be mailed to: 
+You can transfer via [Zelle](https://www.zellepay.com/go/zelle) or make a check payable to __Myanmar Buddhist Association of Hawaii__ with Memo of Building fund. Checks can be mailed to: 
 
 :mailbox: 640 Hakaka street, Honolulu, HI 96816
 
