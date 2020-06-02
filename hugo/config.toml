@@ -3,8 +3,8 @@ languageCode = "en-us"
 title = "Panditãrãma Meditation Center - Hawaii"
 theme = "mytheme"
 enableEmoji = true
-
 DefaultContentLanguage = "en"
+googleAnalytics = "UA-168250111-1"
 
 [params]
     featured_image = "/sayadawgyi.jpg"
