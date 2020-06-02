@@ -5,6 +5,8 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+set HUGO_ENV=production
+
 # Build the project with ananke theme.
 hugo -D
 
