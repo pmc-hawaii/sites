@@ -155,7 +155,7 @@ __By the most venerable Mahasi Sayadaw Gyi - Anu-Maw-Dana for Monastery Donation
                     [မဟာစည်ဆရာတော်ကြီး]
 
 
-![](/sila-logo.jpeg)
+![](/panditarama-logo.jpg)
 
 
 
