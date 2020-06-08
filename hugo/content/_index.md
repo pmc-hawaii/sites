@@ -163,7 +163,7 @@ __By the most venerable Mahasi Sayadaw Gyi - Anu-Maw-Dana for Monastery Donation
 
 ## Monthly Donors
 
-{{< iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vREDjqnCYwAjp6dLZdbEGQ11vM4O1ysH95OBy51uJ7DfRCWFZrHwRdCGIOuHDxAN0mvHBqlRVn23Vy_/pubhtml?gid=1989119374&amp;single=true&amp;widget=true&amp;chrome=false&amp;headers=false" width="100%" height="250" >}}
+{{< iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vREDjqnCYwAjp6dLZdbEGQ11vM4O1ysH95OBy51uJ7DfRCWFZrHwRdCGIOuHDxAN0mvHBqlRVn23Vy_/pubhtml?gid=1989119374&amp;single=true&amp;widget=true&amp;chrome=false&amp;headers=false" width="100%" height="100" >}}
 
 
 ![](/panditarama-logo.jpg)
