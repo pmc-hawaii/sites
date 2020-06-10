@@ -32,8 +32,8 @@ _New Panditarama Hawaii_
 
 |  |  |  | 
 |:------|:-----:|------:|
-| {{< figure src="/property/familyroom.jpg" width="70%" height="25%" target="_blank" link="/property/familyroom.jpg" >}} | {{< figure src="/property/familyroomback.jpg" width="70%" height="25%" target="_blank" link="/property/familyroomback.jpg" >}} | {{< figure src="/property/living-room.jpg" width="70%" height="25%" target="_blank" link="/property/living-room.jpg" >}} |
-| {{< figure src="/property/hallway.jpg" width="70%" height="25%" target="_blank" link="/property/hallway.jpg" >}} | {{< figure src="/property/kitchen.jpg" width="70%" height="25%" target="_blank" link="/property/kitchen.jpg" >}} | {{< figure src="/property/backyard.jpg" width="70%" height="25%" target="_blank" link="/property/backyard.jpg" >}} |
+| {{< figure src="/property/familyroom.jpg" width="100%" height="25%" target="_blank" link="/property/familyroom.jpg" >}} | {{< figure src="/property/familyroomback.jpg" width="100%" height="25%" target="_blank" link="/property/familyroomback.jpg" >}} | {{< figure src="/property/living-room.jpg" width="100%" height="25%" target="_blank" link="/property/living-room.jpg" >}} |
+| {{< figure src="/property/hallway.jpg" width="100%" height="25%" target="_blank" link="/property/hallway.jpg" >}} | {{< figure src="/property/kitchen.jpg" width="100%" height="25%" target="_blank" link="/property/kitchen.jpg" >}} | {{< figure src="/property/backyard.jpg" width="100%" height="25%" target="_blank" link="/property/backyard.jpg" >}} |
 
 
 {{< figure src="/property/from-airport-map.png" target="_blank" link="https://www.google.com/maps/place/1819+Hoomalolo+St,+Pearl+City,+HI+96782/@21.4114152,-157.958598,3a,75y,54.29h,90t/data=!3m7!1e1!3m5!1sprlNHHhtAKz9yT8-T4fnLQ!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DprlNHHhtAKz9yT8-T4fnLQ%26output%3Dthumbnail%26cb_client%3Dsearch.gws-prod.gps%26thumb%3D2%26w%3D360%26h%3D120%26yaw%3D54.288364%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656!4m5!3m4!1s0x7c0066221da07011:0x299affbfdb7a575e!8m2!3d21.411519!4d-157.9584411" >}}
