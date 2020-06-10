@@ -164,18 +164,18 @@ __By the most venerable Mahasi Sayadaw Gyi - Anu-Maw-Dana for Monastery Donation
 
 ## Donors (အလှူရှင်များ)
 
-{{< iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXEfihiD5cPF16H_ufANv5Rynhjgdz4OybsVRwbwIATi535SCE1XMb6lvOWu6sYejxfoEDVvQ2F9lZ/pubhtml?gid=1229631955&amp;widget=true&amp;headers=false&amp;chrome=false&amp;single=true" width="100%" height="250" >}}
+{{< iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXEfihiD5cPF16H_ufANv5Rynhjgdz4OybsVRwbwIATi535SCE1XMb6lvOWu6sYejxfoEDVvQ2F9lZ/pubhtml?gid=1229631955&amp;widget=true&amp;headers=false&amp;chrome=false&amp;single=true" width="100" height="250" >}}
 
 
 ## Monthly Donors
 
-{{< iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vREDjqnCYwAjp6dLZdbEGQ11vM4O1ysH95OBy51uJ7DfRCWFZrHwRdCGIOuHDxAN0mvHBqlRVn23Vy_/pubhtml?gid=1989119374&amp;single=true&amp;widget=true&amp;chrome=false&amp;headers=false" width="100%" height="100" >}}
+{{< iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vREDjqnCYwAjp6dLZdbEGQ11vM4O1ysH95OBy51uJ7DfRCWFZrHwRdCGIOuHDxAN0mvHBqlRVn23Vy_/pubhtml?gid=1989119374&amp;single=true&amp;widget=falslo&amp;chrome=true&amp;headers=false" width="200px" height="200px" >}}
 
+---
+
+## Event Calendar / Weekly Food Donors
+
+{{< iframe src="https://calendar.google.com/calendar/embed?src=panditaramahawaii%40gmail.com&ctz=Pacific%2FHonolulu" style="border: 0" width="400" height="300" frameborder="0" scrolling="no" >}}
 
 ![](/panditarama-logo.jpg)
-
-
-
-
-
 
