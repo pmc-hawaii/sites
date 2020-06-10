@@ -32,7 +32,7 @@ _New Panditarama Hawaii_
 
 |  |  |  | 
 |:------|:-----:|------:|
-| {{< figure src="/property/familyroom.jpg" width="150px" height="100px" target="_blank" link="/property/familyroom.jpg" >}} | {{< figure src="/property/familyroomback.jpg" width="150px" height="100px" target="_blank" link="/property/familyroomback.jpg" >}} | {{< figure src="/property/living-room.jpg" width="150px" height="100px" target="_blank" link="/property/living-room.jpg" >}} |
+| {{< figure src="/property/familyroom.jpg" width="100px" height="50px" target="_blank" link="/property/familyroom.jpg" >}} | {{< figure src="/property/familyroomback.jpg" width="150px" height="100px" target="_blank" link="/property/familyroomback.jpg" >}} | {{< figure src="/property/living-room.jpg" width="150px" height="100px" target="_blank" link="/property/living-room.jpg" >}} |
 | {{< figure src="/property/hallway.jpg" width="150px" height="100px" target="_blank" link="/property/hallway.jpg" >}} | {{< figure src="/property/kitchen.jpg" width="150px" height="100px" target="_blank" link="/property/kitchen.jpg" >}} | {{< figure src="/property/backyard.jpg" width="150px" height="100px" target="_blank" link="/property/backyard.jpg" >}} |
 
 
