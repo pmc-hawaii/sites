@@ -6,13 +6,18 @@ enableEmoji = true
 DefaultContentLanguage = "en"
 googleAnalytics = "UA-168250111-1"
 
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [params]
     env = "production"
     featured_image = "/sayadawgyi.jpg"
-    facebook = ""
+    facebook = "https://www.facebook.com/Panditarama-Meditation-Center-of-Hawaii-799446840208522/"
     twitter = ""
     instagram = ""
-    youtube = ""
+    youtube = "https://www.youtube.com/user/Panditarama"
     github = ""
     gitlab = ""
     linkedin = ""

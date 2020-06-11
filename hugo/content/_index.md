@@ -177,5 +177,7 @@ __By the most venerable Mahasi Sayadaw Gyi - Anu-Maw-Dana for Monastery Donation
 
 {{< iframe src="https://calendar.google.com/calendar/embed?src=panditaramahawaii%40gmail.com&ctz=Pacific%2FHonolulu" style="border: 0" width="400" height="300" frameborder="0" scrolling="no" >}}
 
+> Due to Corona Virus Pandemic, on site Center activities are suspended. We are continuing Saturday evening Dhamma talk and group meditation session virtually through Zoom sessions led by TMC Sayadaw U Thuzana and Hawaii Sayadaw U Tejanana at 5:00 pm Hawaii Time.
+
 ![](/panditarama-logo.jpg)
 
