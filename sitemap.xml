@@ -10,6 +10,12 @@
   </url>
   
   <url>
+    <loc>https://pmc-hawaii.github.io/album/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://pmc-hawaii.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
