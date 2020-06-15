@@ -27,4 +27,10 @@
     <priority>0.5</priority>
   </url>
   
+  <url>
+    <loc>https://pmc-hawaii.github.io/team/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
 </urlset>
