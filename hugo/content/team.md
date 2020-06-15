@@ -12,7 +12,7 @@ menu: main
 |---|---|
 | President | Dr. Charles Aung |
 | Vice-President | Dr. William Aung Myatt |
-| Security | Dr. Angela Wai |
+| Secretary | Dr. Angela Wai |
 | Honorary Chair | Dr. Eddie Lim, U Thein Kyi |
 | EC Member | Dr. Than Htut Aye |
  | EC Member | Dr. Hla Mya Moe |
