@@ -6,6 +6,8 @@ type: page
 menu: main
 ---
 
+## Photos
+
 {{< figure src="/album/katina.jpg" >}}
 
 {{< figure src="/album/lunch.jpeg" >}}
@@ -13,3 +15,5 @@ menu: main
 {{< figure src="/album/donation.jpeg" >}}
 
 {{< figure src="/album/group.jpeg" >}}
+
+![](/panditarama-logo.jpg)

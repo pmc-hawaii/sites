@@ -6,7 +6,7 @@ type: page
 menu: main
 ---
 
-## TEAM
+## Myanmar Buddhist Association of Hawaii
 
 | | |
 |---|---|
@@ -20,3 +20,5 @@ menu: main
 | EC Member | Gladys Taw |
 | EC Member | Myat Mon Moore |
 | EC Member | Myitzu Pine |
+
+![](/panditarama-logo.jpg)
