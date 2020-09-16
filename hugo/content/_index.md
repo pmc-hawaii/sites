@@ -22,6 +22,7 @@ However, we had limitations as the center was on a rental property. Hawaii dhamm
 |:------|-------------:|
 | Dr. Charles Aung and Dr. Angela Khin Khin Wai Family | USD 200,000 |
 | U Thein Kyi and Daw Nwet Nwet Yee Family | USD 200,000 |
+| Dr. Thomas Kosasa | USD 100,000 |
 | Dr. William Aung Myatt and Dr. Hla Mya Moe Family | USD 50,000 |
 
 With all other  donation from Dhamma families of Hawaii Panditarama Meditation center and other Myanmar families, Tathagata Meditation Center (TMC), San Jose Dhamma families, and many other Dhamma followers from across the United States, Myanmar, Singapore, and  Malaysia have made it possible to purchase a property in May 29, 2020. 
@@ -115,6 +116,7 @@ __By the most venerable Mahasi Sayadaw Gyi - Anu-Maw-Dana for Monastery Donation
 
 * Dr. Charles Aung + Dr. Angela Khin Khin Wai မိသားစု  USD 200,000
 * ဦးသိန်းကြည်+ဒေါ်နွဲ့နွဲ့ရီ မိသားစု USD 200,000
+* Dr. Thomas Kosasa USD 100,000
 * Dr. William Aung Myatt + Dr. Hla Mya Moe မိသားစု USD 50,000       
 
 စသောအလှူရှင်  အပေါင်းတို့ကမတည်လှူဒါန်းအမှုပြုကာအားပေးချီးမြှောက်ကြသဖြင့်ဝမ်းသာကြည်နူးမှုများဖြစ်ကြရပါသည်။ အခြားသောအလှူရှင်များကလည်းမိမိတို့စွမ်းနိုင်သလောက်လှူဒါန်းကြပါသည်။ဟာဝိုင်ရီဓမ္မမိသားစုများနှင့် TMC- San Jose စသောဓမ္မမိသားစုများ- အမေရိကန်ပြည်နယ်အသီးသီးနှင့်အခြားသောမြန်မာ,စင်္ကာပူ,မလေးရှားစသောနိုင်ငံအသီးသီးမှဓမ္မမိသားစုများကလည်းလှူဒါန်းထောက်ပံ့ကြပါသည်။                           
